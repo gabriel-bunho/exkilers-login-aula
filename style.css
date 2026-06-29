@@ -132,3 +132,9 @@ body {
     color: #d82222;
     transition: 0.5s;
 }
+
+@media (max-width: 768px) {
+    body {
+        background-image: url("img/bg.jpg");
+    }
+}
